@@ -6,7 +6,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-End-Text-Summarization"
 AUTHOR_USER_NAME = "Riya-gupta-8"
-SRC_REPO = "end-to-end-text-summarization"
+SRC_REPO = "TextSummarization"
 AUTHOR_EMAIL = "riyagupta0823@gmail.com"
 
 

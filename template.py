@@ -4,7 +4,7 @@ from pathlib import Path
 
 logging.basicConfig(level = logging.INFO, format = '[%(ascitime)s]: %(message)s:')
 
-project_name = "end-to-end-text-summarization"
+project_name = "TextSummarization"
 
 #.github below for the deployment of CI/CD pipeline.Adv whenever you commit the code to the github it will automatically take the code and deploy it too
 list_of_files = [
